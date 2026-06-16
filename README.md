@@ -1,4 +1,4 @@
-# 📊 Excel Business Performance Dashboard
+#  Excel Business Performance Dashboard
 
 ![Dashboard Preview](dashboard-preview.png)
 
@@ -6,7 +6,7 @@
 
 ---
 
-## 🧭 Project Overview
+## Project Overview
 
 This project is a **Business Performance Dashboard** built from scratch using Microsoft Excel. It covers two years of sales data (2021–2022) across multiple product categories, payment modes, and sales channels — giving stakeholders a 360° view of business health without leaving their spreadsheet.
 
@@ -14,7 +14,7 @@ The dashboard was built using Microsoft Excel to transform raw sales data into i
 
 ---
 
-## 🔍 Business Problem
+##  Business Problem
 
 Raw sales data is only useful if someone can read it. Most businesses sit on months of transaction records with no way to quickly answer questions like:
 
@@ -26,7 +26,7 @@ This dashboard was built to answer exactly those questions — fast.
 
 ---
 
-## 🎯 Objectives
+##  Objectives
 
 * Clean and structure messy raw data for reliable analysis
 * Build a scalable data model using Pivot Tables
@@ -35,16 +35,16 @@ This dashboard was built to answer exactly those questions — fast.
 
 ---
 
-## ✨ Dashboard Features
+##  Dashboard Features
 
 | Feature                   | Description                                             |
 | ------------------------- | ------------------------------------------------------- |
-| 📅 **Slicers**            | Filter by Year, Month, and Product Category dynamically |
-| 📈 **Trend Chart**        | Sales Quantity & Profit over time (Jan 2021 – Dec 2022) |
-| 🥧 **Payment Mode**       | Cash vs. Online split (Pie Chart)                       |
-| 📦 **Sales by Channel**   | Direct Sales, Online, Wholesaler (Bar Chart)            |
-| 💰 **Profit by Category** | Compare profit across all 5 categories                  |
-| 📐 **Margin by Category** | Visualize profitability efficiency per category         |
+|  **Slicers**            | Filter by Year, Month, and Product Category dynamically |
+|  **Trend Chart**        | Sales Quantity & Profit over time (Jan 2021 – Dec 2022) |
+|  **Payment Mode**       | Cash vs. Online split (Pie Chart)                       |
+|  **Sales by Channel**   | Direct Sales, Online, Wholesaler (Bar Chart)            |
+|  **Profit by Category** | Compare profit across all 5 categories                  |
+|  **Margin by Category** | Visualize profitability efficiency per category         |
 
 ---
 
@@ -62,7 +62,7 @@ This dashboard was built to answer exactly those questions — fast.
 
 ---
 
-## 🛠️ Tools & Excel Skills Used
+##  Tools & Excel Skills Used
 
 * **Power Query** — Data cleaning, transformation, and shaping
 * **Pivot Tables** — Flexible data aggregation and modeling
@@ -90,19 +90,19 @@ That gap between *technically correct* and *genuinely useful* is what this proje
 
 ---
 
-## 🗂️ Project Structure
+##  Project Structure
 
 ```text
-📁 Excel-Sales-Dashboard/
-├── 📄 Business_Performance_Dashboard.xlsx   # Main dashboard file
-├── 📄 Raw_Data.xlsx                         # Original dataset (pre-cleaning)
-├── 🖼️ dashboard-preview.png                 # Dashboard screenshot
-└── 📄 README.md                             # You're here
+ Excel-Sales-Dashboard/
+├──  Business_Performance_Dashboard.xlsx   # Main dashboard file
+├──  Raw_Data.xlsx                         # Original dataset (pre-cleaning)
+├──  dashboard-preview.png                 # Dashboard screenshot
+└──  README.md                             # You're here
 ```
 
 ---
 
-## 🔮 Future Improvements
+##  Future Improvements
 
 * [ ] Migrate to **Power BI** for web sharing and richer visuals
 * [ ] Add a **profitability forecasting** section using Excel trend lines
@@ -111,7 +111,7 @@ That gap between *technically correct* and *genuinely useful* is what this proje
 
 ---
 
-## 🤝 Let's Connect
+##  Let's Connect
 
 If you're a recruiter, hiring manager, or fellow analyst — I'd love your feedback.
 
